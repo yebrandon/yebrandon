@@ -4,4 +4,4 @@
 
 Lovely art drawn by [@eggdere!](https://eggdere.carrd.co/)
 
-I'm currently working at Shopify as a backend developer intern, and will be going into my third-year of studying computer science at Queen's University this fall. You can check out [my website](http://yebrandon.com) if you want to learn more about me or get in touch!
+I'm currently working at Shopify as a backend developer intern, and will be going into my third year of studying computer science at Queen's University this fall. You can check out [my website](http://yebrandon.com) if you want to learn more about me or get in touch!
