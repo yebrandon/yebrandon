@@ -4,4 +4,4 @@
 
 Lovely art drawn by [@eggdere!](https://eggdere.carrd.co/)
 
-I'm currently in my fourth year of studying computer science at Queen's University. You can check out [my website](http://yebrandon.com) if you want to learn more about me or get in touch!
+I'm a software developer who makes cool stuff sometimes. You can check out [my website](http://yebrandon.com) if you want to learn more about me or get in touch!
